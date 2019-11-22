@@ -34,6 +34,12 @@ Since word documents work like zip files, we can just unzip it.
 
 We can quickly notice it has macros embedded into it, soo we can use oletools, namely the olevba tool to extract whats inside the macro.
 
+The oletools can be found in the following repository:
+
+>https://github.com/decalage2/oletools/
+
+Then we run the command
+
 > olevba hacker.docx
 
 After that, we get a hexadecimal string, which after decoded is the right flag!

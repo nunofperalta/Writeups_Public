@@ -7,6 +7,6 @@ You can read them by clicking the link:
 
 - [HSM](HSM.md)
 
-- [Love Me Two Times](Love Me Two Times.md)
+- [Love Me Two Times](Love%20Me%20Two%20Times.md)
 
-- [White Rabbit](White Rabbit.md)
+- [White Rabbit](White%20Rabbit.md)
